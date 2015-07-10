@@ -1,0 +1,19 @@
+{
+  "name": "generator-beerkiss",
+  "version": "0.1.0",
+  "description": "A generator that sets up basic webapp structure with a gulp build file, with add-on support for Angular, bootstrap, SaSS, Phaser and Three.js",
+  "files": [
+    "app",
+    "router"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "devDependencies": {
+    "yeoman-generator": "^0.20.1"
+  },
+  "dependencies": {
+    "chalk": "^1.1.0",
+    "mkdirp": "^0.5.1"
+  }
+}

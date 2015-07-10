@@ -1,0 +1,9 @@
+# OS files
+.DS_Store
+*.db
+
+# Dependency folders
+node_modules
+bower_components
+
+
